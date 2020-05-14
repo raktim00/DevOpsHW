@@ -1,3 +1,1 @@
-<?php
-Print "Hello, World!";
->
+Linux is powerful
