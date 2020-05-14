@@ -1,1 +1,0 @@
-Linux is free to use.
