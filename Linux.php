@@ -1,1 +1,1 @@
-Linux is powerful
+Linux is free to use.
