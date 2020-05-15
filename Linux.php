@@ -1,3 +1,3 @@
 <?php
-echo "Linux is powerful"
+printt "Linux is powerful"
 ?>
