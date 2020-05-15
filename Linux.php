@@ -1,3 +1,1 @@
-<?php
-printt "Hello World";
-?>.
+Linux is powerful and open source.
