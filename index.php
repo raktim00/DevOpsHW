@@ -1,10 +1,11 @@
-<body bgcolor='aqua'>
+<body bgcolor='green'>
 <pre>
 
 <?php
 
-print "Hey There, Welcome to the page of Raktim";
+echo "<b> <font color=\"yellow\">Hey There, Welcome to the Webpage of Raktim</font> </b>";
 
+echo "<br>";
 
 print `ifconfig`;
 
